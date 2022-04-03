@@ -1,14 +1,16 @@
 <h1>Hi 👋, I'm Dmitry</h1>
 <h3>A passionate frontend developer from <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="32px"/> Cologne, Germany</h3>
 <br>
-<img align="left" src="http://dmitry-bret.de/svg/db-avatar-blue.svg" width="200" style="margin: 20px 48px 20px 0;"/>
+<img align="right" src="http://dmitry-bret.de/svg/db-avatar-blue.svg" width="200" style="margin: 24px"/>
 
+<p aligh="left">
 - 💡 &nbsp;I like to explore new trends and learn new technologies.
-- 🌱 &nbsp;I'm on track for learning more about [Vue](https://vuejs.org/), [Pinia](https://pinia.vuejs.org/), [TypeScript](https://www.typescriptlang.org/) and [NuxtJS](https://nuxtjs.org/).
+- 🌱 &nbsp;I'm on track for learning more about <a style="color:#4a148c" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#4a148c" href="https://pinia.vuejs.org/" target="_blank"><u>Pinia</u></a>, <a style="color:#4a148c" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#4a148c" href="https://nuxtjs.org/" target="_blank"><u>NuxtJS</u></a>.
 - 🚧 &nbsp;I'm currently working on a new project after [moodtracking.app](https://moodtracking.app/)... 👀.
 - 💬 &nbsp;Ask me about [vue](https://vuejs.org/), [aurelia](https://aurelia.io/), **ux/ui**, **responsive design** or feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 - 👨‍💻 All of my projects are available at [dmitry-bret.de](http://dmitry-bret.de/)
 - 📫 How to reach me [dmitry.bret@gmail.com](mailto:dmitry.bret@gmail.com)
+</p>
 <br>
 <br>
 
