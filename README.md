@@ -4,14 +4,13 @@
 <img align="right" src="http://dmitry-bret.de/svg/db-avatar-blue.svg" width="200" style="margin: 24px"/>
 
 <p aligh="left">
-- 💡 &nbsp;I like to explore new trends and learn new technologies.
-- 🌱 &nbsp;I'm on track for learning more about <a style="color:#4a148c" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#4a148c" href="https://pinia.vuejs.org/" target="_blank"><u>Pinia</u></a>, <a style="color:#4a148c" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#4a148c" href="https://nuxtjs.org/" target="_blank"><u>NuxtJS</u></a>.
-- 🚧 &nbsp;I'm currently working on a new project after [moodtracking.app](https://moodtracking.app/)... 👀.
-- 💬 &nbsp;Ask me about [vue](https://vuejs.org/), [aurelia](https://aurelia.io/), **ux/ui**, **responsive design** or feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
-- 👨‍💻 All of my projects are available at [dmitry-bret.de](http://dmitry-bret.de/)
-- 📫 How to reach me [dmitry.bret@gmail.com](mailto:dmitry.bret@gmail.com)
+ 💡 &nbsp;I like to explore new trends and learn new technologies.<br>
+ 🌱 &nbsp;I'm on track for learning more about <a style="color:#4a148c" href="https://vuejs.org/" target="_blank"><u>Vue</u></a>, <a style="color:#4a148c" href="https://pinia.vuejs.org/" target="_blank"><u>Pinia</u></a>, <a style="color:#4a148c" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#4a148c" href="https://nuxtjs.org/" target="_blank"><u>NuxtJS</u></a>.<br>
+ 🚧 &nbsp;I'm currently working on a new project after <a style="color:#4a148c" href="https://moodtracking.app/" target="_blank"><u>moodtracking.app</u></a>... 👀.<br>
+ 💬 &nbsp;Ask me about <a style="color:#4a148c" href="https://vuejs.org/" target="_blank"><u>vue</u></a>, <a style="color:#4a148c" href="https://aurelia.io/" target="_blank"><u>aurelia</u></a>, ux/ui, responsive design or feel free to reach out to me for consulting, volunteering or just for some interesting discussion.<br>
+ 👨‍💻 All of my projects are available at <a style="color:#4a148c" href="http://dmitry-bret.de/" target="_blank"><u>dmitry-bret.de</u></a><br>
+ 📫 How to reach me <a style="color:#4a148c" href="mailto:dmitry.bret@gmail.com"><u>dmitry.bret@gmail.com</u></a><br>
 </p>
-<br>
 <br>
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
