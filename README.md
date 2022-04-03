@@ -1,10 +1,7 @@
 <h1>Hi 👋, I'm Dmitry</h1>
-<h3>A passionate frontend developer from Cologne, Germany</h3>
+<h3>A passionate frontend developer from <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="32px"/> Cologne, Germany</h3>
 <br>
-<p>Hey there, welcome!<br>
-I'm Dmitry Bret, Front End developer from <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="32px"/> <b>Cologne, Germany</b>.</p>
-<br>
-<img align="left" src="http://dmitry-bret.de/css/images/db-mm.png" width="200" style="margin: 0 32px 0 0;"/>
+<img align="left" src="http://dmitry-bret.de/svg/db-avatar-blue.svg" width="200" style="margin: 20px 48px 20px 0;"/>
 
 - 💡 &nbsp;I like to explore new trends and learn new technologies.
 - 🌱 &nbsp;I'm on track for learning more about [Vue](https://vuejs.org/), [Pinia](https://pinia.vuejs.org/), [TypeScript](https://www.typescriptlang.org/) and [NuxtJS](https://nuxtjs.org/).
