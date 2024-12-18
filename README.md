@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Dmitry</h1>
 <h3>A passionate frontend developer from <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="32px"/> Cologne, Germany</h3>
 <br>
-<img align="right" src="http://dmitry-bret.de/svg/db-avatar-blue.svg" width="200" style="margin: 24px"/>
+<img align="right" src="https://dmitry-bret.de/assets/dmitry-bret-600x600-40edd97e.webp" width="200" style="margin: 24px"/>
 
 <p aligh="left">
  💡 &nbsp;I like to explore new trends and learn new technologies.<br>
