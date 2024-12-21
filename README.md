@@ -64,6 +64,11 @@
   <a href="https://play.google.com/store/apps/dev?id=5073544342150499449" target="_blank"><img alt="Pitaya Solutions" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
 </p>
 
+## dev.to card ##
+<p align="center">
+<a href="https://app.daily.dev/dmitry_bret"><img src="https://api.daily.dev/devcards/v2/gfBXCGwMw.png?type=default&r=9eb" width="356" alt="Dmitry Bret's Dev Card"/></a>
+</p>
+
 ---
 
 <p align="center"> © 2022 Dmitry Bret. Hand made with ❤️ in Germany.</p>
